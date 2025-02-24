@@ -4,7 +4,7 @@
     "ubicacion": "Madrid, España",
     "seguidores": 36.654,
     "descripcion": "Explore los 100 próximos conciertos en el WiZink Center, vea fotos, lea reseñas, compre entradas a vendedores oficiales y obtenga direcciones y recomendaciones de alojamiento.",
-    "imagen": "./images/WiZink.jpg",
+    "imagen": "images/WiZink.jpg",
     "enlace": "https://www.wizinkcenter.es"
   },
   {
@@ -12,7 +12,7 @@
     "ubicacion": "Madrid, España",
     "seguidores": 7.462,
     "descripcion": "Explora los 20 próximos conciertos en el Palacio de Vistalegre, vea fotos, lea reseñas, compre entradas a vendedores oficiales y obtenga direcciones y recomendaciones de alojamiento",
-    "imagen": "./images/SalaRiviera.jpg",
+    "imagen": "images/SalaRiviera.jpg",
     "enlace":"https://www.palaciovistalegre.com"
   },
   {
@@ -20,7 +20,7 @@
     "ubicacion": "Madrid, España",
     "seguidores": 15.186,
     "descripcion": "Explora los 112 próximos conciertos en la Sala Riviera, vea fotos, lea reseñas, compre entradas a vendedores oficiales y obtenga direcciones y recomendaciones de alojamiento",
-    "imagen": "./images/PalacioVistalegre.jpg",
+    "imagen": "images/PalacioVistalegre.jpg",
     "enlace":"https://salariviera.com"
   }
 
